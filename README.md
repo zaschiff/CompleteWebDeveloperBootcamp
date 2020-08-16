@@ -1,2 +1,2 @@
 # CompleteWebDeveloperBootcamp
-This is my repo to hold cod made in the udemy course The Web Developer Bootcamp. Taught by Colt Steele
+This is my repo to hold code made in the udemy course The Web Developer Bootcamp. Taught by Colt Steele
