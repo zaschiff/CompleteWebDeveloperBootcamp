@@ -1,16 +1,21 @@
 # CompleteWebDeveloperBootcamp
+
 This is my repo to hold code made in the udemy course The Web Developer Bootcamp. Taught by Colt Steele
 
 ## Table of Contents
 
 - [CompleteWebDeveloperBootcamp](#completewebdeveloperbootcamp)
   - [Table of Contents](#table-of-contents)
-  - [Introduction to HTML](#introduction-to-html)
+  - [Unit 3: Introduction to HTML](#unit-3-introduction-to-html)
     - [firstpage.html](#firstpagehtml)
     - [quiz1.html](#quiz1html)
     - [quiz2.html](#quiz2html)
+  - [Unit 4: Intermediate HTML](#unit-4-intermediate-html)
+    - [inputs.html](#inputshtml)
+    - [quiz3.html](#quiz3html)
+    - [quiz4.html](#quiz4html)
 
-## Introduction to HTML
+## Unit 3: Introduction to HTML
 
 First coding section of the course. Practice creating html pages using the appropriate tags.
 
@@ -25,3 +30,19 @@ The first html assignment. Practie in using lists. The goal is to recreate an im
 ### quiz2.html
 
 Again same assingment design of quiz 1 where we are taksede with recreating a web page based on imagery in the video alone. This quiz addresses the use of imagery and links to additional pages.
+
+## Unit 4: Intermediate HTML
+
+The next secito which begins so to show more advanced concepts of HTML
+
+### inputs.html
+
+Practice file for html input fields.
+
+### quiz3.html
+
+The first exercise in the seciton. Us a table and provided data to build an html table about the generation 1 starters of pokemon.
+
+### quiz4.html
+
+The second exercise. A simple yet robust form to be built that forces a person to register certain amount of information. The are specified fields that are required and require a certain length.
