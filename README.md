@@ -14,6 +14,10 @@ This is my repo to hold code made in the udemy course The Web Developer Bootcamp
     - [inputs.html](#inputshtml)
     - [quiz3.html](#quiz3html)
     - [quiz4.html](#quiz4html)
+  - [Introduction to CSS](#introduction-to-css)
+    - [Selectors exercise](#selectors-exercise)
+      - [selectors.css](#selectorscss)
+      - [selectorsExercise.html](#selectorsexercisehtml)
 
 ## Unit 3: Introduction to HTML
 
@@ -46,3 +50,19 @@ The first exercise in the seciton. Us a table and provided data to build an html
 ### quiz4.html
 
 The second exercise. A simple yet robust form to be built that forces a person to register certain amount of information. The are specified fields that are required and require a certain length.
+
+## Introduction to CSS
+
+this is the 4th unit the course and covers the beginning skills whe using css to style an html document.
+
+### Selectors exercise
+
+the only quiz in the seciton that uses a css file to alter the accompanying html file.
+
+#### selectors.css
+
+the css file to be altered follwing the pre-written commented instrucitons that alter the html file in the directory.
+
+#### selectorsExercise.html
+
+the html file that is moved for the exercise. Nothing was touched in this file.
