@@ -14,10 +14,12 @@ This is my repo to hold code made in the udemy course The Web Developer Bootcamp
     - [inputs.html](#inputshtml)
     - [quiz3.html](#quiz3html)
     - [quiz4.html](#quiz4html)
-  - [Introduction to CSS](#introduction-to-css)
+  - [Unit 5: Introduction to CSS](#unit-5-introduction-to-css)
     - [Selectors exercise](#selectors-exercise)
-      - [selectors.css](#selectorscss)
-      - [selectorsExercise.html](#selectorsexercisehtml)
+    - [TicTacToe](#tictactoe)
+    - [Photography Code Along](#photography-code-along)
+    - [Blog exercise](#blog-exercise)
+      - [Colt's Solution](#colts-solution)
 
 ## Unit 3: Introduction to HTML
 
@@ -51,18 +53,26 @@ The first exercise in the seciton. Us a table and provided data to build an html
 
 The second exercise. A simple yet robust form to be built that forces a person to register certain amount of information. The are specified fields that are required and require a certain length.
 
-## Introduction to CSS
+## Unit 5: Introduction to CSS
 
 this is the 4th unit the course and covers the beginning skills whe using css to style an html document.
 
 ### Selectors exercise
 
-the only quiz in the seciton that uses a css file to alter the accompanying html file.
+the only quiz in the section that uses a css file to alter the accompanying html file.
 
-#### selectors.css
+### TicTacToe
 
-the css file to be altered follwing the pre-written commented instrucitons that alter the html file in the directory.
+a simple stylization exercise to make a tic tac toe board on the screen using css.
 
-#### selectorsExercise.html
+### Photography Code Along
 
-the html file that is moved for the exercise. Nothing was touched in this file.
+A code along project that creates a small web portfolio for black and white photos as if we were the photgrapher. This is accomplished using css and a simple html file to hold the images. 
+
+### Blog exercise
+
+this is the first big css project. We are to build from a scratch a blog with two posts and a unique styling. The project involves manipulation of different elements in css and an html file contianing the posts.
+
+#### Colt's Solution
+
+Is the coded along version of colt's solution to the blog exercise. i have achieved a simialr result, but this is the direct solution form Colt.
