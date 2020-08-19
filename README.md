@@ -16,6 +16,7 @@ This is my repo to hold code made in the udemy course The Web Developer Bootcamp
     - [quiz4.html](#quiz4html)
   - [Unit 5: Introduction to CSS](#unit-5-introduction-to-css)
     - [Selectors exercise](#selectors-exercise)
+  - [Unit 6: Intermediate CSS](#unit-6-intermediate-css)
     - [TicTacToe](#tictactoe)
     - [Photography Code Along](#photography-code-along)
     - [Blog exercise](#blog-exercise)
@@ -61,13 +62,17 @@ this is the 4th unit the course and covers the beginning skills whe using css to
 
 the only quiz in the section that uses a css file to alter the accompanying html file.
 
+## Unit 6: Intermediate CSS
+
+The next section in the course. This section covers work done when dealing with more advanced concepts of CSS.
+
 ### TicTacToe
 
 a simple stylization exercise to make a tic tac toe board on the screen using css.
 
 ### Photography Code Along
 
-A code along project that creates a small web portfolio for black and white photos as if we were the photgrapher. This is accomplished using css and a simple html file to hold the images. 
+A code along project that creates a small web portfolio for black and white photos as if we were the photgrapher. This is accomplished using css and a simple html file to hold the images.
 
 ### Blog exercise
 
@@ -75,4 +80,4 @@ this is the first big css project. We are to build from a scratch a blog with tw
 
 #### Colt's Solution
 
-Is the coded along version of colt's solution to the blog exercise. i have achieved a simialr result, but this is the direct solution form Colt.
+Is the coded along version of Colt's solution to the blog exercise. I have achieved a simialr result in my work, but this is the direct solution form Colt.
