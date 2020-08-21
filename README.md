@@ -21,6 +21,9 @@ This is my repo to hold code made in the udemy course The Web Developer Bootcamp
     - [Photography Code Along](#photography-code-along)
     - [Blog exercise](#blog-exercise)
       - [Colt's Solution](#colts-solution)
+  - [Unit 7: Bootstrap (Bootstrap 3)](#unit-7-bootstrap-bootstrap-3)
+    - [Image Gallery Project](#image-gallery-project)
+    - [Landing Page](#landing-page)
 
 ## Unit 3: Introduction to HTML
 
@@ -81,3 +84,15 @@ this is the first big css project. We are to build from a scratch a blog with tw
 #### Colt's Solution
 
 Is the coded along version of Colt's solution to the blog exercise. I have achieved a simialr result in my work, but this is the direct solution form Colt.
+
+## Unit 7: Bootstrap (Bootstrap 3)
+
+In this section of the course. Colt starts to dive inot using the bootstrap 3 framework. The basics.html file is some sample code of using bootstrap to make a framework of tools for a well crafted website.
+
+### Image Gallery Project
+
+This is the first of two code along projects. In this project we code along with Colt and use a combination of Boostrap 3, CSS, and HTML to build a fast, responsive, minimal but well layed out web page for holding a small image gallery of 9 images. None of the images are mine and all were taken from the course. When it is completed, the web pages houses a few bootstrap items and a an image gallery using the bootstrap grid system. The project also highlights the importance of specicity and the web development tolls inside the browser to show that even though we want custom designs, we need to make sure we have the specificty, otherwise bootstrap will over rule.
+
+### Landing Page
+
+This is the second code along project in the unit. In this project, we use bootstrap 3 to build a well rounded albeit minimalist design for a landing page for a website. This project again uses bootstrap 3 to illustrate the benefits of using the bootstrap framework and at the same time allows us to show customization of prebuilt tools.
