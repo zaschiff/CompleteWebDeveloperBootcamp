@@ -24,7 +24,8 @@ This is my repo to hold code made in the udemy course The Web Developer Bootcamp
   - [Unit 7: Bootstrap (Bootstrap 3)](#unit-7-bootstrap-bootstrap-3)
     - [Image Gallery Project](#image-gallery-project)
     - [Landing Page](#landing-page)
-  - [Unit 8: Bootstrap 4](#unit-8-bootstrap-4)
+  - [Unit 8 & 9: Bootstrap 4](#unit-8--9-bootstrap-4)
+    - [Pattern Project](#pattern-project)
 
 ## Unit 3: Introduction to HTML
 
@@ -98,6 +99,10 @@ This is the first of two code along projects. In this project we code along with
 
 This is the second code along project in the unit. In this project, we use bootstrap 3 to build a well rounded albeit minimalist design for a landing page for a website. This project again uses bootstrap 3 to illustrate the benefits of using the bootstrap framework and at the same time allows us to show customization of prebuilt tools.
 
-## Unit 8: Bootstrap 4
+## Unit 8 & 9: Bootstrap 4
 
-this unit covers the changes made in bootstrap form version 4 to 4. The html files in this folder are all code alongs to demonstrate the changes made in the version changes. Colt goes into them more in detail in the video.
+this unit covers the changes made in bootstrap form version 4 to 4. The html files in this folder are all code alongs to demonstrate the changes made in the version changes. Colt goes into them more in detail in the video. HTML files are individual video lecture code alongs that are for practice in using the specific new utilities.
+
+### Pattern Project
+
+First code along project using Bootstrap 4. This project recreates a small image gallery in cards. It takes advantge of the new tuilites of bootstrap 4.
