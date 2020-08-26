@@ -27,6 +27,15 @@ This is my repo to hold code made in the udemy course The Web Developer Bootcamp
   - [Unit 8 & 9: Bootstrap 4](#unit-8--9-bootstrap-4)
     - [Pattern Project](#pattern-project)
     - [Museum of Candy](#museum-of-candy)
+  - [Unit 10: Introduction to Javascript](#unit-10-introduction-to-javascript)
+    - [Age calculator](#age-calculator)
+    - [Stalker Exercise](#stalker-exercise)
+  - [Unit 11: Javascript Basics - Control Flow](#unit-11-javascript-basics---control-flow)
+  - [Annoy-omatic](#annoy-omatic)
+  - [Conditionals](#conditionals)
+  - [For loops Problem Set](#for-loops-problem-set)
+  - [GuessingGame](#guessinggame)
+  - [While Loops](#while-loops)
 
 ## Unit 3: Introduction to HTML
 
@@ -111,3 +120,39 @@ First code along project using Bootstrap 4. This project recreates a small image
 ### Museum of Candy
 
 This is the second code along project in the Bootstrap 4 seciton. This Project is large in comparison to others. This takes advantage of the new features in bootstrap 4 and tries to create a small yet responsive web page that does not appear to use bootstrap as much. It is a light weight design with additional features along side a small snippet of javascript to make a transition affect.
+
+## Unit 10: Introduction to Javascript
+
+This seciton is the bsaics to the underlying scripts of javascript. This is where the functional side of the web developement begins. This section covers the very basics of coding in javascript. The smaler files are simplemcode alongs during the lecture videos.
+
+### Age calculator
+
+a simple java script file that takes in teh user's age and reports back how many days they have roughly been alive.
+
+### Stalker Exercise
+
+Is a simple script that takes in information from the user and quietly reports it back to the console.
+
+## Unit 11: Javascript Basics - Control Flow
+
+this section covers boolean logic and control flow using the while loop, for loop, and if conditionals. Here we beign to exercise logic and decide what code is run.
+
+## Annoy-omatic
+
+Is a simple script that uses a while loops that doens't end until the user enters correct input. it will constantly create a pop up asking the same question otherwise.
+
+## Conditionals
+
+Is a small exercise to practice using the if statement and conditional logic.
+
+## For loops Problem Set
+
+Is tkaing the problem set from the while loops and recreatign them in the structure of a for loop.
+
+## GuessingGame
+
+Is a simple guess the number that is hard coded game. The user will be prompted for a number and depending on their guess be given a response.
+
+## While Loops
+
+A set of problesm to practice using the while loop ina  form of code repetition.
