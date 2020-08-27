@@ -36,6 +36,7 @@ This is my repo to hold code made in the udemy course The Web Developer Bootcamp
   - [For loops Problem Set](#for-loops-problem-set)
   - [GuessingGame](#guessinggame)
   - [While Loops](#while-loops)
+  - [Unit 12: Javascript Basics - Functions](#unit-12-javascript-basics---functions)
 
 ## Unit 3: Introduction to HTML
 
@@ -156,3 +157,8 @@ Is a simple guess the number that is hard coded game. The user will be prompted 
 ## While Loops
 
 A set of problesm to practice using the while loop ina  form of code repetition.
+
+
+## Unit 12: Javascript Basics - Functions
+
+This section covers on function declaration and function expression. The three fies are possible solutions to solving the exercises Colt gives in the lecture video. I did not reate html files to accompany these. I ran them in my computer's terminal using node.js.
