@@ -37,6 +37,11 @@ This is my repo to hold code made in the udemy course The Web Developer Bootcamp
   - [GuessingGame](#guessinggame)
   - [While Loops](#while-loops)
   - [Unit 12: Javascript Basics - Functions](#unit-12-javascript-basics---functions)
+  - [Unit 13: javascript Basics - Arrays](#unit-13-javascript-basics---arrays)
+    - [Array Problem set](#array-problem-set)
+    - [Todo List Code along](#todo-list-code-along)
+    - [Unit 14: Javascript Basics: Objects](#unit-14-javascript-basics-objects)
+    - [movieDatabase.js](#moviedatabasejs)
 
 ## Unit 3: Introduction to HTML
 
@@ -158,7 +163,26 @@ Is a simple guess the number that is hard coded game. The user will be prompted 
 
 A set of problesm to practice using the while loop ina  form of code repetition.
 
-
 ## Unit 12: Javascript Basics - Functions
 
 This section covers on function declaration and function expression. The three fies are possible solutions to solving the exercises Colt gives in the lecture video. I did not reate html files to accompany these. I ran them in my computer's terminal using node.js.
+
+## Unit 13: javascript Basics - Arrays
+
+This unit covers arrays in javascript and manipulating them. There are two folders that I created in this section. One is the folder that contains all the javascript for the exercise problems that Colt assigns in this section. Again run using node.js in the terminal so no accompanying html files or css. The other is the code along for the todo list project which builds a simple todo list that prints and functions more through the console but takes input through prompts on the html page.
+
+### Array Problem set
+
+Folder containung the exercise problems from this section.
+
+### Todo List Code along
+
+The todo list code along project.
+
+### Unit 14: Javascript Basics: Objects
+
+This section covers the object, and how to code them into javascript. This is the very basic start of object oriented programming but OOP is the not the focus of the section. Just the idea of an object. how to access data inside, manipulate the data inside, and assign methods to the object.
+
+### movieDatabase.js
+
+The solitary file in the folder. This is the one exercise that Colt assigns that we need to code. In this file, we build an array of movie objects which consist of a title, rating, and a boolean value of being watched. We then loop through the array and access the individual elements and print out some dialogue. Again run through node.js in the terminal so no additional files were created.
