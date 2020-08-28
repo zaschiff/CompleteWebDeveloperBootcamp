@@ -31,11 +31,11 @@ This is my repo to hold code made in the udemy course The Web Developer Bootcamp
     - [Age calculator](#age-calculator)
     - [Stalker Exercise](#stalker-exercise)
   - [Unit 11: Javascript Basics - Control Flow](#unit-11-javascript-basics---control-flow)
-  - [Annoy-omatic](#annoy-omatic)
-  - [Conditionals](#conditionals)
-  - [For loops Problem Set](#for-loops-problem-set)
-  - [GuessingGame](#guessinggame)
-  - [While Loops](#while-loops)
+    - [Annoy-omatic](#annoy-omatic)
+    - [Conditionals](#conditionals)
+    - [For loops Problem Set](#for-loops-problem-set)
+    - [GuessingGame](#guessinggame)
+    - [While Loops](#while-loops)
   - [Unit 12: Javascript Basics - Functions](#unit-12-javascript-basics---functions)
   - [Unit 13: javascript Basics - Arrays](#unit-13-javascript-basics---arrays)
     - [Array Problem set](#array-problem-set)
@@ -143,23 +143,23 @@ Is a simple script that takes in information from the user and quietly reports i
 
 this section covers boolean logic and control flow using the while loop, for loop, and if conditionals. Here we beign to exercise logic and decide what code is run.
 
-## Annoy-omatic
+### Annoy-omatic
 
 Is a simple script that uses a while loops that doens't end until the user enters correct input. it will constantly create a pop up asking the same question otherwise.
 
-## Conditionals
+### Conditionals
 
 Is a small exercise to practice using the if statement and conditional logic.
 
-## For loops Problem Set
+### For loops Problem Set
 
 Is tkaing the problem set from the while loops and recreatign them in the structure of a for loop.
 
-## GuessingGame
+### GuessingGame
 
 Is a simple guess the number that is hard coded game. The user will be prompted for a number and depending on their guess be given a response.
 
-## While Loops
+### While Loops
 
 A set of problesm to practice using the while loop ina  form of code repetition.
 
