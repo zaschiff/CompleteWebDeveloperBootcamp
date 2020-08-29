@@ -42,6 +42,9 @@ This is my repo to hold code made in the udemy course The Web Developer Bootcamp
     - [Todo List Code along](#todo-list-code-along)
     - [Unit 14: Javascript Basics: Objects](#unit-14-javascript-basics-objects)
     - [movieDatabase.js](#moviedatabasejs)
+  - [Unit 15 & 16: DOM Manipulation](#unit-15--16-dom-manipulation)
+    - [Color toggle Exercise](#color-toggle-exercise)
+  - [ScoreKeeper](#scorekeeper)
 
 ## Unit 3: Introduction to HTML
 
@@ -186,3 +189,16 @@ This section covers the object, and how to code them into javascript. This is th
 ### movieDatabase.js
 
 The solitary file in the folder. This is the one exercise that Colt assigns that we need to code. In this file, we build an array of movie objects which consist of a title, rating, and a boolean value of being watched. We then loop through the array and access the individual elements and print out some dialogue. Again run through node.js in the terminal so no additional files were created.
+
+## Unit 15 & 16: DOM Manipulation
+
+These sections cover basic and advanced DOM manipulation. The exercsie Colt gives are designed to practice manipulting a web page via js and the DOM.
+
+### Color toggle Exercise
+
+A simple web page with a single button that when clicked changes the color of the background. This is the first exerise and basic use of manipulating the DOM.
+
+## ScoreKeeper
+
+A first but very basic web app that helps keep scores for two players in a game. They may adjust the score limit and reset the counter as well. The winning score will also be changed to green text when reached.
+
