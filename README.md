@@ -45,6 +45,7 @@ This is my repo to hold code made in the udemy course The Web Developer Bootcamp
   - [Unit 15 & 16: DOM Manipulation](#unit-15--16-dom-manipulation)
     - [Color toggle Exercise](#color-toggle-exercise)
   - [ScoreKeeper](#scorekeeper)
+  - [Unit 17: Color Game](#unit-17-color-game)
 
 ## Unit 3: Introduction to HTML
 
@@ -202,3 +203,6 @@ A simple web page with a single button that when clicked changes the color of th
 
 A first but very basic web app that helps keep scores for two players in a game. They may adjust the score limit and reset the counter as well. The winning score will also be changed to green text when reached.
 
+## Unit 17: Color Game
+
+This unit is entirely a code along project. We use the tools we hav learned so far: html, css, javascript, DOM manipulation. to buld a web based game.
