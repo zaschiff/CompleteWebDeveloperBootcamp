@@ -46,6 +46,7 @@ This is my repo to hold code made in the udemy course The Web Developer Bootcamp
     - [Color toggle Exercise](#color-toggle-exercise)
   - [ScoreKeeper](#scorekeeper)
   - [Unit 17: Color Game](#unit-17-color-game)
+  - [Units 18 & 19: Introduction and Advanced jQuery](#units-18--19-introduction-and-advanced-jquery)
 
 ## Unit 3: Introduction to HTML
 
@@ -206,3 +207,7 @@ A first but very basic web app that helps keep scores for two players in a game.
 ## Unit 17: Color Game
 
 This unit is entirely a code along project. We use the tools we hav learned so far: html, css, javascript, DOM manipulation. to buld a web based game.
+
+## Units 18 & 19: Introduction and Advanced jQuery
+
+This folder has some work sing jQuery. There are only some exercises but no projects. The exercises are merely use to show use of jQuery and it's power It alos highlights that I can, at times, be unnecessary as we can do everything in jQuery with javascript and CSS.
