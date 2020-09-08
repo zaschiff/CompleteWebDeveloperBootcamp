@@ -47,6 +47,7 @@ This is my repo to hold code made in the udemy course The Web Developer Bootcamp
   - [ScoreKeeper](#scorekeeper)
   - [Unit 17: Color Game](#unit-17-color-game)
   - [Units 18 & 19: Introduction and Advanced jQuery](#units-18--19-introduction-and-advanced-jquery)
+  - [Unit 20: Todo List Projects](#unit-20-todo-list-projects)
 
 ## Unit 3: Introduction to HTML
 
@@ -211,3 +212,7 @@ This unit is entirely a code along project. We use the tools we hav learned so f
 ## Units 18 & 19: Introduction and Advanced jQuery
 
 This folder has some work sing jQuery. There are only some exercises but no projects. The exercises are merely use to show use of jQuery and it's power It alos highlights that I can, at times, be unnecessary as we can do everything in jQuery with javascript and CSS.
+
+## Unit 20: Todo List Projects
+
+Refactored the todo list project using the tools in jQuery and css.
