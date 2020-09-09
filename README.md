@@ -48,6 +48,9 @@ This is my repo to hold code made in the udemy course The Web Developer Bootcamp
   - [Unit 17: Color Game](#unit-17-color-game)
   - [Units 18 & 19: Introduction and Advanced jQuery](#units-18--19-introduction-and-advanced-jquery)
   - [Unit 20: Todo List Projects](#unit-20-todo-list-projects)
+  - [Unit 21: Pata Tap Clone](#unit-21-pata-tap-clone)
+  - [Unit 22: Backend Basics](#unit-22-backend-basics)
+  - [Unit 23: The Command Line](#unit-23-the-command-line)
 
 ## Unit 3: Introduction to HTML
 
@@ -216,3 +219,16 @@ This folder has some work sing jQuery. There are only some exercises but no proj
 ## Unit 20: Todo List Projects
 
 Refactored the todo list project using the tools in jQuery and css.
+
+## Unit 21: Pata Tap Clone
+
+This was a simple and optional section that showed us how to make a pata tap cone using papaerscript.js. The App creates circles and sounds when pressing certain keys on the keyboard. This was an optional project to show we cna make a full script in our html that avoids some errors.
+
+## Unit 22: Backend Basics
+
+There was no work done in this folder. It was a simple information section. Colt only asked us to take notes until a certain point and then just prepare as we would go over everything in it's entirety later on in the course.
+
+## Unit 23: The Command Line
+
+This was a an introduction into the command line. there is an exercise but it is not in a file. This secton was a brief yet powerful intro into using the command line. This is a powerful and useful section for those whom have never used the command line.
+
