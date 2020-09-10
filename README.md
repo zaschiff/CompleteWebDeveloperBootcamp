@@ -51,6 +51,9 @@ This is my repo to hold code made in the udemy course The Web Developer Bootcamp
   - [Unit 21: Pata Tap Clone](#unit-21-pata-tap-clone)
   - [Unit 22: Backend Basics](#unit-22-backend-basics)
   - [Unit 23: The Command Line](#unit-23-the-command-line)
+  - [Unit 24: Node JS](#unit-24-node-js)
+    - [demoApp](#demoapp)
+    - [MyShop](#myshop)
 
 ## Unit 3: Introduction to HTML
 
@@ -232,3 +235,14 @@ There was no work done in this folder. It was a simple information section. Colt
 
 This was a an introduction into the command line. there is an exercise but it is not in a file. This secton was a brief yet powerful intro into using the command line. This is a powerful and useful section for those whom have never used the command line.
 
+## Unit 24: Node JS
+
+this section covers the use and content of Node.js. This seciton was written in goorm and brought over from goorm in order to be placed in the repo. The code will both run in the a personal set up using node, or in goorm.
+
+### demoApp
+
+This app was first created in goorm. It was a small code along to show the installation process using npm and packages. Along side using the installed packages in our code with the require fucntion.
+
+### MyShop
+
+This is the exercise in section 24. The exercise requires us to install the package _faker_ using npm. Then use the package to create a list of 10 random products and their prices. This all needs to be output to the console.
