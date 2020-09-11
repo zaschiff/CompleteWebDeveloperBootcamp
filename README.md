@@ -54,6 +54,11 @@ This is my repo to hold code made in the udemy course The Web Developer Bootcamp
   - [Unit 24: Node JS](#unit-24-node-js)
     - [demoApp](#demoapp)
     - [MyShop](#myshop)
+  - [Unit 25 & 26: Server Side Framework & Intermediate Express (repectively)](#unit-25--26-server-side-framework--intermediate-express-repectively)
+    - [ExpressExercise](#expressexercise)
+    - [FirstExpressApp](#firstexpressapp)
+    - [moreExpress](#moreexpress)
+    - [PostRequestDemo](#postrequestdemo)
 
 ## Unit 3: Introduction to HTML
 
@@ -246,3 +251,24 @@ This app was first created in goorm. It was a small code along to show the insta
 ### MyShop
 
 This is the exercise in section 24. The exercise requires us to install the package _faker_ using npm. Then use the package to create a list of 10 random products and their prices. This all needs to be output to the console.
+
+## Unit 25 & 26: Server Side Framework & Intermediate Express (repectively)
+
+This section covers the use of express and how we can minpulate this lightweight framework to do our bidding when designing an web app or site. After learning the bare bones basics in utilizing express. The following unit, unit 26, dives deeper into refactoring and gaining greater control over the framework. We need to install several packages from npm in order for the entire code to work, but in the end we have made some small yet working web apps that can be launched form our local machine. DUring these lectures, had set up an accunt to use the cloud IDE, Goorm, but had previously set up two working local machines, one linux and one windows to go back and forth upon. With that being said, all code was done on one of the two mahcines. I had touched Goorm very little. If code does not work, please refer to lecturs notes for tiehr the PORT section or learn to configure your own machine to allow port access. for my windows machine I did need to manipulate the script execution policy. Since this can affect machine in a negative way it was only when testing code, not when running scripts outside of learning or my personal coding and I do not recommend leaving policy changes due to security reasons. There was one exercise in unit 25, the folder is labeled ExpressExercise, the other folders are mere code alongs done wuth Colt.
+
+### ExpressExercise
+
+the sole exercise in the two units. We are tasked with manipulating routes using javascript and express, while immplementing the ejs view engine.
+
+### FirstExpressApp
+
+the first code along in the lecture to demonstrat the basic use of express the the ejs engine.
+
+### moreExpress
+
+the second code along. This project shows more advanced work when using the framework and engine to make more realistic boilerplate changes to the html.
+
+### PostRequestDemo
+
+a small code along to demonstrate the use of express to amke post requests and to modify data in the backend of our javascript and html.
+ 
