@@ -59,6 +59,10 @@ This is my repo to hold code made in the udemy course The Web Developer Bootcamp
     - [FirstExpressApp](#firstexpressapp)
     - [moreExpress](#moreexpress)
     - [PostRequestDemo](#postrequestdemo)
+  - [Unit 27: Working with API's](#unit-27-working-with-apis)
+    - [ApiRequestDemo](#apirequestdemo)
+    - [movieDB](#moviedb)
+  - [Unit 28: YelpCamp Basics](#unit-28-yelpcamp-basics)
 
 ## Unit 3: Introduction to HTML
 
@@ -271,4 +275,19 @@ the second code along. This project shows more advanced work when using the fram
 ### PostRequestDemo
 
 a small code along to demonstrate the use of express to amke post requests and to modify data in the backend of our javascript and html.
- 
+
+## Unit 27: Working with API's
+
+This unit covers the stack's use of making a wbe call to an api endpoint, another source of information. BY making this call we can collect data from other sources allowing our application to do more with less work involved.
+
+### ApiRequestDemo
+
+This application is small js file that shows the use of Axios to make a web call. In the lecture vieo Colt uses the npm package _request_ but in a side note and additional video the TA, Ian, states that this package is deprecated and that a comparable package is _Axios_. There are some changes that need to be made in order for it to work unlike additional packages needed for _request_ to function. Another difference in this file vs. the lecture video is the api to which I am calling. The yahoo api Colt uses in the video is no longer free for public use. It is still free, but a developer account must be made to get an api key. Instead, Ian recommmends a different api call that generates fake data to test the api call. Tis is again mention in the side video posted by Ian.
+
+### movieDB
+
+A small code along project that shows us the a lightweight but real use scenario in making an api call. We use a form field to query a website for movie titles and years. The site __omdbapi.com__ does require an api key which Ian provides in a side not prior to the code along project. I made into a variable to store it rather than trying to remember it all the time, making string concatenation far easier.
+
+## Unit 28: YelpCamp Basics
+
+This is the first course section were we begin to use everything we have learned in order to build a fast responsive, website with very little work put in. We use the tools we have covereed including but not limited to: _bootstrap, node.js, express, & ejs_. There is another seciton on compelteing this project that involves databases but has been separated for the database section to be covered.

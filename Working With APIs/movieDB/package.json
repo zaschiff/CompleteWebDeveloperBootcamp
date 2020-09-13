@@ -1,0 +1,23 @@
+{
+  "name": "moviedb",
+  "version": "1.0.0",
+  "description": "Code along project to demonstrate use of an API in a more real world example.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "movies",
+    "demo",
+    "web",
+    "dev",
+    "bootcamp"
+  ],
+  "author": "Zach Schiff",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
+}

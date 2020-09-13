@@ -1,0 +1,19 @@
+{
+  "name": "apirequestdemo",
+  "version": "1.0.0",
+  "description": "First web app using an API request",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "request",
+    "first"
+  ],
+  "author": "Zach Schiff",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
