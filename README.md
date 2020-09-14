@@ -63,6 +63,7 @@ This is my repo to hold code made in the udemy course The Web Developer Bootcamp
     - [ApiRequestDemo](#apirequestdemo)
     - [movieDB](#moviedb)
   - [Unit 28: YelpCamp Basics](#unit-28-yelpcamp-basics)
+  - [Unit 29: Databases](#unit-29-databases)
 
 ## Unit 3: Introduction to HTML
 
@@ -291,3 +292,7 @@ A small code along project that shows us the a lightweight but real use scenario
 ## Unit 28: YelpCamp Basics
 
 This is the first course section were we begin to use everything we have learned in order to build a fast responsive, website with very little work put in. We use the tools we have covereed including but not limited to: _bootstrap, node.js, express, & ejs_. There is another seciton on compelteing this project that involves databases but has been separated for the database section to be covered.
+
+## Unit 29: Databases
+
+This unit covers the use of MongoDB and the package mongoose. This Pakcage allows us to connect to a mongodb databse and modify it with in our javascript code. This unit has a solitary file worth looking at and that is cats.js. In order for this javascript file to work, the database needs to be running. Colt does describe how to do this in a lecture but the coomand to be run in your terminal (assuming your mongodb is set up correctly ojn your machine) is: _mongod (for linux users)_. I have not done this on a windows machine but will as soon as posisble and will update this README with appropriate instructions for a windows user.
