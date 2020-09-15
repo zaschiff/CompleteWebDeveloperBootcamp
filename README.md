@@ -66,6 +66,7 @@ This is my repo to hold code made in the udemy course The Web Developer Bootcamp
   - [Unit 29: Databases](#unit-29-databases)
   - [Unit 30: yelpCamp Data Persistance](#unit-30-yelpcamp-data-persistance)
   - [Unit 31: RESTful Routing](#unit-31-restful-routing)
+  - [Unit 32: Data Association](#unit-32-data-association)
 
 ## Unit 3: Introduction to HTML
 
@@ -306,3 +307,7 @@ This unit covers the addition of the mongo database. We add the mongo database i
 ## Unit 31: RESTful Routing
 
 This unit covers the 7 steps in a REST process for a web app. The chart.html was designed by Colt to show the url patterna and design for each step. The 7 steps are a design patern that is universally followed. It details how an app shoulw structure its pages in relation to the methods used. The app, Blog, shows this design and its highly notated mehtods. The RESt structure must be adhered to in order for it to be  RESTful app.
+
+## Unit 32: Data Association
+
+This section covers how to relate on databased object to another. Using mongoDB, there are two methods and Colt goes over them both in the section. The javascript files are named for their respective methods used. He then goes over modularizing the code. Breaking code into multiple files so that the main file is not massive.
