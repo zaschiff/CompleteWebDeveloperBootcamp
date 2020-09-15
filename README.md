@@ -64,6 +64,8 @@ This is my repo to hold code made in the udemy course The Web Developer Bootcamp
     - [movieDB](#moviedb)
   - [Unit 28: YelpCamp Basics](#unit-28-yelpcamp-basics)
   - [Unit 29: Databases](#unit-29-databases)
+  - [Unit 30: yelpCamp Data Persistance](#unit-30-yelpcamp-data-persistance)
+  - [Unit 31: RESTful Routing](#unit-31-restful-routing)
 
 ## Unit 3: Introduction to HTML
 
@@ -295,4 +297,12 @@ This is the first course section were we begin to use everything we have learned
 
 ## Unit 29: Databases
 
-This unit covers the use of MongoDB and the package mongoose. This Pakcage allows us to connect to a mongodb databse and modify it with in our javascript code. This unit has a solitary file worth looking at and that is cats.js. In order for this javascript file to work, the database needs to be running. Colt does describe how to do this in a lecture but the coomand to be run in your terminal (assuming your mongodb is set up correctly ojn your machine) is: _mongod (for linux users)_. I have not done this on a windows machine but will as soon as posisble and will update this README with appropriate instructions for a windows user.
+This unit covers the use of MongoDB and the package mongoose. This Pakcage allows us to connect to a mongodb databse and modify it with in our javascript code. This unit has a solitary file worth looking at and that is cats.js. In order for this javascript file to work, the database needs to be running. Colt does describe how to do this in a lecture but the coomand to be run in your terminal (assuming your mongodb is set up correctly ojn your machine) is: _mongod (for linux users)_. In order to run this on windows, simply run the mongo.exe file in a command prompt with admin access (if you installed the mongoDB as windows service as I did. Otherwise refer to the mongo support docs.)
+
+## Unit 30: yelpCamp Data Persistance
+
+This unit covers the addition of the mongo database. We add the mongo database in order to keep the changes made to the as far as adding cmapsites and other pieces of data. This project has now hit its second stage. The updated code is in folder __v2__. the code from unit 28 is inside the folder __v1__
+
+## Unit 31: RESTful Routing
+
+This unit covers the 7 steps in a REST process for a web app. The chart.html was designed by Colt to show the url patterna and design for each step. The 7 steps are a design patern that is universally followed. It details how an app shoulw structure its pages in relation to the methods used. The app, Blog, shows this design and its highly notated mehtods. The RESt structure must be adhered to in order for it to be  RESTful app.
