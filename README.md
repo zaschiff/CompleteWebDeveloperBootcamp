@@ -67,6 +67,7 @@ This is my repo to hold code made in the udemy course The Web Developer Bootcamp
   - [Unit 30: yelpCamp Data Persistance](#unit-30-yelpcamp-data-persistance)
   - [Unit 31: RESTful Routing](#unit-31-restful-routing)
   - [Unit 32: Data Association](#unit-32-data-association)
+  - [Unit 33: YelpCamp: Comments](#unit-33-yelpcamp-comments)
 
 ## Unit 3: Introduction to HTML
 
@@ -311,3 +312,7 @@ This unit covers the 7 steps in a REST process for a web app. The chart.html was
 ## Unit 32: Data Association
 
 This section covers how to relate on databased object to another. Using mongoDB, there are two methods and Colt goes over them both in the section. The javascript files are named for their respective methods used. He then goes over modularizing the code. Breaking code into multiple files so that the main file is not massive.
+
+## Unit 33: YelpCamp: Comments
+
+In this section we continue to use the yelp camp project and make versions 3 and 4. We have added new data persistnace that kills and rebuilds the database. We have also added in the funcitonality of referenceing one collection to another in our models in order to connect them. By doing this we have added more functionality to our application. We then made more stylistic changes in order ot mkae the pages more appealing. The two folders for the section are labeled _v3_ and _v4_ under the _yelp camp_ folder.
