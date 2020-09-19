@@ -68,6 +68,9 @@ This is my repo to hold code made in the udemy course The Web Developer Bootcamp
   - [Unit 31: RESTful Routing](#unit-31-restful-routing)
   - [Unit 32: Data Association](#unit-32-data-association)
   - [Unit 33: YelpCamp: Comments](#unit-33-yelpcamp-comments)
+  - [Unit 34: Authentication](#unit-34-authentication)
+    - [AuthDemo](#authdemo)
+  - [Units 35 & 36: YelpCamp Auth, Clenaing up Yelpcamp](#units-35--36-yelpcamp-auth-clenaing-up-yelpcamp)
 
 ## Unit 3: Introduction to HTML
 
@@ -316,3 +319,15 @@ This section covers how to relate on databased object to another. Using mongoDB,
 ## Unit 33: YelpCamp: Comments
 
 In this section we continue to use the yelp camp project and make versions 3 and 4. We have added new data persistnace that kills and rebuilds the database. We have also added in the funcitonality of referenceing one collection to another in our models in order to connect them. By doing this we have added more functionality to our application. We then made more stylistic changes in order ot mkae the pages more appealing. The two folders for the section are labeled _v3_ and _v4_ under the _yelp camp_ folder.
+
+## Unit 34: Authentication
+
+In this section we cover the use of authentication for a web app. The pakcages in use that Colt recommends (but we are not limited to) are passport, passport-local, and passport-local-mongoose. We utilize these three packages and design a middleware function to control access to certain pages with in our web application. By using authentication we can also tie information to the profile in use.
+
+### AuthDemo
+
+This standalone application shows the use of passport and creating middleware functions.
+
+## Units 35 & 36: YelpCamp Auth, Clenaing up Yelpcamp
+
+These two secitons create folders _v5_ and _v6_ respectively. In teh first of the two sections we add authorization to the yelpcamp application which not only allows us to manipulate who can add campgrounds and comments to the database, but who can see what. The authorization piece also allows us to tie comments to a user and display their profile name when on the show page to demonstrate the connection and usefulness of connecting the two pieces. Unit 36 is mere clean up and refactoring. IN this section we break down the massive app.js file into multiple pieces and subdriectories whihc is called __modularizing__ the code and makes it much more manageable in that form. By doing this, we have more files, but less lines of code search through should there be an error. This also allows us to add more to the project with out having to make create more code. We cna also remove pieces should they become broken, or unneeded in the same manner.
