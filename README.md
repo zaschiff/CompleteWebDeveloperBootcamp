@@ -70,7 +70,8 @@ This is my repo to hold code made in the udemy course The Web Developer Bootcamp
   - [Unit 33: YelpCamp: Comments](#unit-33-yelpcamp-comments)
   - [Unit 34: Authentication](#unit-34-authentication)
     - [AuthDemo](#authdemo)
-  - [Units 35 & 36: YelpCamp Auth, Clenaing up Yelpcamp](#units-35--36-yelpcamp-auth-clenaing-up-yelpcamp)
+  - [Units 35 & 36: YelpCamp Auth, Cleaning up Yelpcamp](#units-35--36-yelpcamp-auth-cleaning-up-yelpcamp)
+  - [Unit 37: YelpCamp - Update and Destroy](#unit-37-yelpcamp---update-and-destroy)
 
 ## Unit 3: Introduction to HTML
 
@@ -328,6 +329,10 @@ In this section we cover the use of authentication for a web app. The pakcages i
 
 This standalone application shows the use of passport and creating middleware functions.
 
-## Units 35 & 36: YelpCamp Auth, Clenaing up Yelpcamp
+## Units 35 & 36: YelpCamp Auth, Cleaning up Yelpcamp
 
-These two secitons create folders _v5_ and _v6_ respectively. In teh first of the two sections we add authorization to the yelpcamp application which not only allows us to manipulate who can add campgrounds and comments to the database, but who can see what. The authorization piece also allows us to tie comments to a user and display their profile name when on the show page to demonstrate the connection and usefulness of connecting the two pieces. Unit 36 is mere clean up and refactoring. IN this section we break down the massive app.js file into multiple pieces and subdriectories whihc is called __modularizing__ the code and makes it much more manageable in that form. By doing this, we have more files, but less lines of code search through should there be an error. This also allows us to add more to the project with out having to make create more code. We cna also remove pieces should they become broken, or unneeded in the same manner.
+These two secitons create folders _v5_ and _v6_ respectively. In teh first of the two sections we add authorization to the yelpcamp application which not only allows us to manipulate who can add campgrounds and comments to the database, but who can see what. The authorization piece also allows us to tie comments to a user and display their profile name when on the show page to demonstrate the connection and usefulness of connecting the two pieces. Unit 36 is mere clean up and refactoring. IN this section we break down the massive app.js file into multiple pieces and subdriectories whihc is called __modularizing__ the code and makes it much more manageable in that form. By doing this, we have more files, but less lines of code search through should there be an error. This also allows us to add more to the project with out having to make create more code. We can also remove pieces should they become broken, or unneeded in the same manner.
+
+## Unit 37: YelpCamp - Update and Destroy
+
+This section covers adding in the two other RESTful routes of update and destroy. We add in the functionality of being able to add a new camp ground, edit if we made a mistake when entering in the information, and destroying the campground if we no longer want in the database. BY doing this we compeletete REST structure whne surrounding a cmapground object with in the database. We do the same thing for comments as well. Finally to protect our data, and make sure that others can not modify the database outside of what they have contributed. We have creatde a small piece of middleware to check the user for both authentication as they log into the sight. We also check the user if they are authorized to modiyf the given object and element. By doing this, we implement authentication and authorization to our application. All of this code is in folder _v8_ inside of _yelpCamp_. Colt's folder has hit v10 by this point but he created a new folder a few different times including multiple times in a section. I decided ot update mine with section rather than each subtantial change.
