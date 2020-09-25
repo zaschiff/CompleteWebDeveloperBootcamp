@@ -72,6 +72,7 @@ This is my repo to hold code made in the udemy course The Web Developer Bootcamp
     - [AuthDemo](#authdemo)
   - [Units 35 & 36: YelpCamp Auth, Cleaning up Yelpcamp](#units-35--36-yelpcamp-auth-cleaning-up-yelpcamp)
   - [Unit 37: YelpCamp - Update and Destroy](#unit-37-yelpcamp---update-and-destroy)
+  - [Unit 38 & 39: Yelpcamp - UI Improvements](#unit-38--39-yelpcamp---ui-improvements)
 
 ## Unit 3: Introduction to HTML
 
@@ -336,3 +337,7 @@ These two secitons create folders _v5_ and _v6_ respectively. In teh first of th
 ## Unit 37: YelpCamp - Update and Destroy
 
 This section covers adding in the two other RESTful routes of update and destroy. We add in the functionality of being able to add a new camp ground, edit if we made a mistake when entering in the information, and destroying the campground if we no longer want in the database. BY doing this we compeletete REST structure whne surrounding a cmapground object with in the database. We do the same thing for comments as well. Finally to protect our data, and make sure that others can not modify the database outside of what they have contributed. We have creatde a small piece of middleware to check the user for both authentication as they log into the sight. We also check the user if they are authorized to modiyf the given object and element. By doing this, we implement authentication and authorization to our application. All of this code is in folder _v7_ inside of _yelpCamp_. Colt's folder has hit v10 by this point but he created a new folder a few different times including multiple times in a section. I decided ot update mine with section rather than each subtantial change.
+
+## Unit 38 & 39: Yelpcamp - UI Improvements
+
+This section covers ui improvements in the yelpcamp code along. In this sections we make a few stylistic changes and code refactoring into making a more fluid application. We have made the folder _v8_.

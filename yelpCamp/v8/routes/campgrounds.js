@@ -33,7 +33,8 @@ router.post("/",function(req, res) {
         username: req.user.username
     };
     var newCampground = {
-        name: req.body.name, 
+        name: req.body.name,
+        price: req.body.price, 
         image: req.body.img, 
         desc: req.body.desc,
         author: author
