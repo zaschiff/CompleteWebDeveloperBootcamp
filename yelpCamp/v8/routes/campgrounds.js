@@ -55,7 +55,7 @@ router.post("/",function(req, res) {
 router.get("/:id", function(req, res) {
     // find the campground with the provided id
     Campground.findById(req.params.id).populate("comments").exec(function (err, foundCampground) { 
-        if (err) {
+        if (err || !foundCampground) {
             console.log(err);
         } else {
             // console.log(foundCampground);
@@ -67,15 +67,10 @@ router.get("/:id", function(req, res) {
 
 
 // EDIT Campground routes
-router.get("/:id/edit",middleware.checkCampgroundOwnership, function(req, res) {
-    Campground.findById(req.params.id, function(err, foundCampground) {
-        if (err) {
-            res.redirect("/campgrounds");
-        } else {
-            res.render("campgrounds/edit", {campground: foundCampground});
-        }
-    });
-});
+router.get("/:id/edit", middleware.isLoggedIn,middleware.checkCampgroundOwnership, function(req, res) {
+     res.render("campgrounds/edit", {campground: foundCampground});
+ });
+
 
 // UPDATE Campground routes
 router.put("/:id", middleware.checkCampgroundOwnership,function(req, res) {
