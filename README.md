@@ -73,6 +73,7 @@ This is my repo to hold code made in the udemy course The Web Developer Bootcamp
   - [Units 35 & 36: YelpCamp Auth, Cleaning up Yelpcamp](#units-35--36-yelpcamp-auth-cleaning-up-yelpcamp)
   - [Unit 37: YelpCamp - Update and Destroy](#unit-37-yelpcamp---update-and-destroy)
   - [Unit 38 & 39: Yelpcamp - UI Improvements](#unit-38--39-yelpcamp---ui-improvements)
+  - [Unit 40: Deploying](#unit-40-deploying)
 
 ## Unit 3: Introduction to HTML
 
@@ -341,3 +342,7 @@ This section covers adding in the two other RESTful routes of update and destroy
 ## Unit 38 & 39: Yelpcamp - UI Improvements
 
 This section covers ui improvements in the yelpcamp code along. In this sections we make a few stylistic changes and code refactoring into making a more fluid application. We have made the folder _v8_.
+
+## Unit 40: Deploying
+
+This section covers deploying to heroku. This work was done primarily in a separat folder as I needed to to a separate git init. I have been uploading a my code to github prior to this section. As a way to keep update issues to a minimum, while working in the lecutre, I created a new folder for the git commands to function more cleanly. As a result I have moved the deployed code to folder _yelpcamp/v9_. A demo app for doing the initial practice, created the folder _Deploying_.
