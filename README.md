@@ -74,6 +74,8 @@ This is my repo to hold code made in the udemy course The Web Developer Bootcamp
   - [Unit 37: YelpCamp - Update and Destroy](#unit-37-yelpcamp---update-and-destroy)
   - [Unit 38 & 39: Yelpcamp - UI Improvements](#unit-38--39-yelpcamp---ui-improvements)
   - [Unit 40: Deploying](#unit-40-deploying)
+  - [Unit 41: Javascript - The tricky stuff](#unit-41-javascript---the-tricky-stuff)
+- [THIS CONCOLUDES THE COURSE!](#this-concoludes-the-course)
 
 ## Unit 3: Introduction to HTML
 
@@ -346,3 +348,9 @@ This section covers ui improvements in the yelpcamp code along. In this sections
 ## Unit 40: Deploying
 
 This section covers deploying to heroku. This work was done primarily in a separat folder as I needed to to a separate git init. I have been uploading a my code to github prior to this section. As a way to keep update issues to a minimum, while working in the lecutre, I created a new folder for the git commands to function more cleanly. As a result I have moved the deployed code to folder _yelpcamp/v9_. A demo app for doing the initial practice, created the folder _Deploying_.
+
+## Unit 41: Javascript - The tricky stuff
+
+This sections vcovers intermediate to advanced topics in javascript and is taught by an additional instructor Elie. We cover the _this_ keyword, OOP (object opriented programming), and closure. BY doing so we allo our selves greater control over the javascript that we write.There is one filefor this section which is an exercsie in creasting an object. It is under the folder _OOP_. It does't not output or do anything merely a chance to code up an example for future use.
+
+# THIS CONCOLUDES THE COURSE!
